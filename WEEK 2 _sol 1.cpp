@@ -18,4 +18,5 @@ main()
 	if(a==0) cout<<"All Small Letter";
 	else if(b==0) cout << "All Capital Letter";
 	else cout << "Mix";
+	return 0;
 }
